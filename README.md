@@ -1,4 +1,4 @@
-# Topics on Computational Genomics
+# Topics in Computational Genomics
 <img src="" data-canonical-src="" width="400" height="250" />
 
 # [Topics on Computational Genomics]()
